@@ -1,0 +1,14 @@
+{
+  "name": "basic-node-request-promise",
+  "version": "1.0.0",
+  "description": "Request Promise example in nodeJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^2.0.1"
+  }
+}
